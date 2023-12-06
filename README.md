@@ -1,14 +1,8 @@
 # Cartography Portfolio
-<table>
-<tr>
-<td width="50%">
-Isaac Bell
-</td>
-<td width="50%">
-ibell2@uoregon.edu
-</td>
-</tr>
-</table>
+> Isaac Bell
+>
+> ibell2@uoregon.edu
+
 ***
 
 ## *Cartographer's Statement*
