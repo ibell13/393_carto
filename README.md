@@ -9,7 +9,7 @@
 abbshsbd
 ## Lab 1: Reference maps at three scales
 ![Layout_lab1-1](https://github.com/ibell13/393_carto/assets/122644517/75aa0cf6-e629-456e-a07d-527e7c736c91)
-[PDF Version](/pdfs/layout_lab1.pdf)
+[PDF Version](./pdfs/layout_lab1.pdf)
 
 
 sdafaf
