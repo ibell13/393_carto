@@ -6,23 +6,27 @@
 ***
 
 ### *Cartographer's Statement*
-abbshsbd
+I am a fourth-year student at the University of Oregon studying spatial data science. I'm particularly interested in using remote sensing
+and GIS to explore natural science. I am building my cartography skills in order to tell engaging stories about the earth, and to present any of my future 
+work in a visually pleasing way. This portfolio is a collection of work from Geography 393, Data Driven Cartography; all of it was created in ArcGIS Pro.
+***
+
 ## Lab 1: Reference maps at three scales
 ![Layout_lab1-1](https://github.com/ibell13/393_carto/assets/122644517/75aa0cf6-e629-456e-a07d-527e7c736c91)
 [PDF Version](./pdfs/Layout_lab1.pdf)
 
 In my first project, I created three reference maps: one small-scale map of the Willamette Valley, and two larger-scale maps of Portland, OR and Salem, OR.
 All of these maps were required to show roads, cities, states, counties and water bodies, but with varied symbology and labeling across each map; I also chose to add several
-additional layers to some maps, such as land use and local points of interest. 
+additional features to some maps, such as land use and local points of interest. 
 
-For my map of the Willamette Valley, I decided to use symbology that
+For my map of the Willamette Valley, I decided to use layers that
 emphasized larger geographic features and patterns. I used OpenStreetMap's land use data to emphasize land cover patterns across the valley; I also emphasized political
 features like counties and large cities. One way I varied my symbology between feature
 types was using serif fonts for state and county labels, and sans serif for cities and
 towns.
 
 For my map of Portland, the scale seemed best for labeling neighborhoods. I
-used the OpenStreetMap's 'places' dataset for this. My main
+used the OpenStreetMap 'places' dataset for this. My main
 goal for this map was to keep a simple and consistent color scheme.
 
 For my map of Salem, I chose to de-emphasize roads and focus on buildings and
