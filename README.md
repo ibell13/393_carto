@@ -4,7 +4,7 @@
 > ibell2@uoregon.edu
 
 ***
-- [Lab 1](#Lab-1:-Reference-maps-at-three-scales)
+- [Lab 1](#*Lab-1:-Reference-maps-at-three-scales*)
 
 ***
 
