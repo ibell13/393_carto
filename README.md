@@ -7,7 +7,8 @@
 
 ### *Cartographer's Statement*
 I am a fourth-year student at the University of Oregon studying spatial data science. I'm particularly interested in using remote sensing
-and GIS to explore natural science. I am building my cartography skills in order to tell engaging stories about the earth, and to present any of my future 
+and GIS to explore natural science, and I want to use or develop tools that can investigate data in unique or interesting ways.
+I am building my cartography skills in order to tell engaging stories about the earth, and to present any of my future 
 work in a visually pleasing way. This portfolio is a collection of work from Geography 393, Data Driven Cartography; all of it was created in ArcGIS Pro.
 ***
 
